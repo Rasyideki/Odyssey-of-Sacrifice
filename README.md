@@ -2,4 +2,6 @@
 Project Aplikasi Pengembangan Gim
 
 Game 2D PixelArt.
-All Asset needed
+
+-Hanya aset dan sourcecode
+-Develop by Muhammad Rasyid Baihaki
