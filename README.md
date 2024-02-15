@@ -1,7 +1,8 @@
 # Odyssey-of-Sacrifice
-Project Aplikasi Pengembangan Gim
+Project Game Development
 
-Game 2D PixelArt.
+Game 2D PixelArt, RPG, Story.
 
--Hanya aset dan sourcecode
+-"Asset and sourcecode Only"
+
 -Develop by Muhammad Rasyid Baihaki
